@@ -1,0 +1,320 @@
+2026-02-20 03:27:16,843 [INFO] HTTP Request: GET https://huggingface.co/api/models/Systran/faster-whisper-small.en/revision/main "HTTP/1.1 200 OK"
+2026-02-20 03:27:17,140 [INFO] HTTP Request: HEAD https://huggingface.co/Systran/faster-whisper-small.en/resolve/d1d751a5f8271d482d14ca55d9e2deeebbae577f/model.bin "HTTP/1.1 302 Found"
+2026-02-20 03:27:17,427 [INFO] HTTP Request: GET https://huggingface.co/api/models/Systran/faster-whisper-small.en/xet-read-token/d1d751a5f8271d482d14ca55d9e2deeebbae577f "HTTP/1.1 200 OK"
+2026-02-20 03:28:05,036 [INFO] Processing audio with duration 00:08.320
+2026-02-20 03:28:05,117 [INFO] VAD filter removed 00:08.320 of audio
+2026-02-20 03:28:11,122 [INFO] Processing audio with duration 00:03.030
+2026-02-20 03:28:11,127 [INFO] VAD filter removed 00:02.064 of audio
+2026-02-20 03:28:12,719 [INFO] Chunk: 'I know.'
+2026-02-20 03:28:17,573 [INFO] Processing audio with duration 00:03.020
+2026-02-20 03:28:17,578 [INFO] VAD filter removed 00:00.912 of audio
+2026-02-20 03:28:19,307 [INFO] Chunk: 'You start to hear about a daughter child.'
+2026-02-20 03:28:20,683 [INFO] Processing audio with duration 00:03.530
+2026-02-20 03:28:20,688 [INFO] VAD filter removed 00:00.000 of audio
+2026-02-20 03:28:22,465 [INFO] Chunk: 'in your account, but don't you worry. I can...'
+2026-02-20 03:28:23,774 [INFO] Processing audio with duration 00:03.540
+2026-02-20 03:28:23,779 [INFO] VAD filter removed 00:01.076 of audio
+2026-02-20 03:28:25,544 [INFO] Chunk: 'definitely help you with it.'
+2026-02-20 03:28:26,877 [INFO] Processing audio with duration 00:03.500
+2026-02-20 03:28:26,882 [INFO] VAD filter removed 00:02.832 of audio
+2026-02-20 03:28:28,536 [INFO] Chunk: 'Alright.'
+2026-02-20 03:28:29,996 [INFO] Processing audio with duration 00:03.520
+2026-02-20 03:28:30,001 [INFO] VAD filter removed 00:01.152 of audio
+2026-02-20 03:28:31,676 [INFO] Chunk: 'I stop with your name, please?'
+2026-02-20 03:28:39,188 [INFO] Processing audio with duration 00:03.530
+2026-02-20 03:28:39,193 [INFO] VAD filter removed 00:02.096 of audio
+2026-02-20 03:28:40,887 [INFO] Chunk: 'Street, New York.'
+2026-02-20 03:28:42,303 [INFO] Processing audio with duration 00:03.540
+2026-02-20 03:28:42,309 [INFO] VAD filter removed 00:02.148 of audio
+2026-02-20 03:28:43,983 [INFO] Chunk: 'New York.'
+2026-02-20 03:28:45,414 [INFO] Processing audio with duration 00:03.540
+2026-02-20 03:28:45,420 [INFO] VAD filter removed 00:00.880 of audio
+2026-02-20 03:28:47,124 [INFO] Chunk: 'It's one zero zero three zero.'
+2026-02-20 03:28:48,508 [INFO] Processing audio with duration 00:03.510
+2026-02-20 03:28:48,514 [INFO] VAD filter removed 00:02.694 of audio
+2026-02-20 03:28:54,644 [INFO] Processing audio with duration 00:03.510
+2026-02-20 03:28:54,650 [INFO] VAD filter removed 00:03.510 of audio
+2026-02-20 03:28:57,700 [INFO] Processing audio with duration 00:03.520
+2026-02-20 03:28:57,706 [INFO] VAD filter removed 00:01.856 of audio
+2026-02-20 03:28:59,390 [INFO] Chunk: 'in Wales.'
+2026-02-20 03:29:00,800 [INFO] Processing audio with duration 00:03.540
+2026-02-20 03:29:00,806 [INFO] VAD filter removed 00:02.256 of audio
+2026-02-20 03:29:02,375 [INFO] Chunk: 'Ah, no problem.'
+2026-02-20 03:29:03,854 [INFO] Processing audio with duration 00:03.510
+2026-02-20 03:29:03,859 [INFO] VAD filter removed 00:00.176 of audio
+2026-02-20 03:29:05,527 [INFO] Chunk: 'Sam. Ask for sugar, A for apple...'
+2026-02-20 03:29:06,941 [INFO] Processing audio with duration 00:03.540
+2026-02-20 03:29:06,947 [INFO] VAD filter removed 00:00.000 of audio
+2026-02-20 03:29:08,536 [INFO] Chunk: 'and Lake Man, then Dales.'
+2026-02-20 03:29:09,955 [INFO] Processing audio with duration 00:03.500
+2026-02-20 03:29:09,961 [INFO] VAD filter removed 00:00.000 of audio
+2026-02-20 03:29:13,021 [INFO] Processing audio with duration 00:03.500
+2026-02-20 03:29:13,028 [INFO] VAD filter removed 00:00.000 of audio
+2026-02-20 03:29:14,664 [INFO] Chunk: 'E for echo and S for sugar.'
+2026-02-20 03:29:16,089 [INFO] Processing audio with duration 00:03.530
+2026-02-20 03:29:16,094 [INFO] VAD filter removed 00:02.298 of audio
+2026-02-20 03:29:19,197 [INFO] Processing audio with duration 00:03.540
+2026-02-20 03:29:19,203 [INFO] VAD filter removed 00:02.224 of audio
+2026-02-20 03:29:20,875 [INFO] Chunk: 'Wonderful me.'
+2026-02-20 03:29:22,306 [INFO] Processing audio with duration 00:03.510
+2026-02-20 03:29:22,311 [INFO] VAD filter removed 00:01.382 of audio
+2026-02-20 03:29:23,996 [INFO] Chunk: 'New York, New York.'
+2026-02-20 03:29:25,356 [INFO] Processing audio with duration 00:03.500
+2026-02-20 03:29:25,362 [INFO] VAD filter removed 00:01.584 of audio
+2026-02-20 03:29:27,077 [INFO] Chunk: 'It's one zero zero'
+2026-02-20 03:29:28,453 [INFO] Processing audio with duration 00:03.530
+2026-02-20 03:29:28,459 [INFO] VAD filter removed 00:01.562 of audio
+2026-02-20 03:29:36,314 [INFO] Processing audio with duration 00:03.510
+2026-02-20 03:29:36,320 [INFO] VAD filter removed 00:03.510 of audio
+2026-02-20 03:29:39,364 [INFO] Processing audio with duration 00:03.540
+2026-02-20 03:29:39,371 [INFO] VAD filter removed 00:01.744 of audio
+2026-02-20 03:29:40,963 [INFO] Chunk: 'Ah, no problem. It's...'
+2026-02-20 03:29:42,448 [INFO] Processing audio with duration 00:03.520
+2026-02-20 03:29:42,454 [INFO] VAD filter removed 00:00.000 of audio
+2026-02-20 03:29:44,229 [INFO] Chunk: 'Sam. Ask for sugar A, apple M...'
+2026-02-20 03:29:45,559 [INFO] Processing audio with duration 00:03.520
+2026-02-20 03:29:45,564 [INFO] VAD filter removed 00:00.000 of audio
+2026-02-20 03:29:47,190 [INFO] Chunk: 'like, match then dales, deal.'
+2026-02-20 03:29:48,601 [INFO] Processing audio with duration 00:03.510
+2026-02-20 03:29:48,607 [INFO] VAD filter removed 00:00.000 of audio
+2026-02-20 03:29:50,268 [INFO] Chunk: 'dolphin? If for apple, I love...'
+2026-02-20 03:29:51,686 [INFO] Processing audio with duration 00:03.520
+2026-02-20 03:29:51,692 [INFO] VAD filter removed 00:00.048 of audio
+2026-02-20 03:29:53,305 [INFO] Chunk: 'you for Echo and As for Sugar.'
+2026-02-20 03:29:57,816 [INFO] Processing audio with duration 00:03.530
+2026-02-20 03:29:57,822 [INFO] VAD filter removed 00:00.784 of audio
+2026-02-20 03:29:59,566 [INFO] Chunk: 'address, wonderful main street, New York.'
+2026-02-20 03:30:00,946 [INFO] Processing audio with duration 00:03.540
+2026-02-20 03:30:00,951 [INFO] VAD filter removed 00:02.020 of audio
+2026-02-20 03:30:02,782 [INFO] Chunk: 'York York.'
+2026-02-20 03:30:04,067 [INFO] Processing audio with duration 00:03.540
+2026-02-20 03:30:04,072 [INFO] VAD filter removed 00:00.976 of audio
+2026-02-20 03:30:05,821 [INFO] Chunk: 'It's one zero zero three zero'
+2026-02-20 03:30:07,150 [INFO] Processing audio with duration 00:03.530
+2026-02-20 03:30:07,156 [INFO] VAD filter removed 00:02.234 of audio
+2026-02-20 03:30:12,650 [INFO] Processing audio with duration 00:03.000
+2026-02-20 03:30:12,654 [INFO] VAD filter removed 00:03.000 of audio
+2026-02-20 03:30:15,720 [INFO] Processing audio with duration 00:03.530
+2026-02-20 03:30:15,725 [INFO] VAD filter removed 00:01.040 of audio
+2026-02-20 03:30:17,336 [INFO] Chunk: 'Echo and ask for sugar.'
+2026-02-20 03:30:21,829 [INFO] Processing audio with duration 00:03.510
+2026-02-20 03:30:21,835 [INFO] VAD filter removed 00:00.848 of audio
+2026-02-20 03:30:24,890 [INFO] Processing audio with duration 00:03.520
+2026-02-20 03:30:24,895 [INFO] VAD filter removed 00:01.904 of audio
+2026-02-20 03:30:26,494 [INFO] Chunk: 'New York, New York.'
+2026-02-20 03:30:27,954 [INFO] Processing audio with duration 00:03.530
+2026-02-20 03:30:27,960 [INFO] VAD filter removed 00:01.104 of audio
+2026-02-20 03:30:29,820 [INFO] Chunk: 'It's one zero zero three zero'
+2026-02-20 03:30:31,056 [INFO] Processing audio with duration 00:03.510
+2026-02-20 03:30:31,061 [INFO] VAD filter removed 00:02.054 of audio
+2026-02-20 03:30:34,177 [INFO] Processing audio with duration 00:03.540
+2026-02-20 03:30:34,182 [INFO] VAD filter removed 00:03.540 of audio
+2026-02-20 03:30:37,227 [INFO] Processing audio with duration 00:03.530
+2026-02-20 03:30:37,232 [INFO] VAD filter removed 00:00.336 of audio
+2026-02-20 03:30:38,836 [INFO] Chunk: '191 West, 165...'
+2026-02-20 03:30:40,313 [INFO] Processing audio with duration 00:03.540
+2026-02-20 03:30:40,318 [INFO] VAD filter removed 00:00.000 of audio
+2026-02-20 03:30:41,988 [INFO] Chunk: 'Street, New York, New York, 1003.'
+2026-02-20 03:30:43,370 [INFO] Processing audio with duration 00:03.500
+2026-02-20 03:30:43,376 [INFO] VAD filter removed 00:02.140 of audio
+2026-02-20 03:30:46,429 [INFO] Processing audio with duration 00:03.520
+2026-02-20 03:30:46,436 [INFO] VAD filter removed 00:02.256 of audio
+2026-02-20 03:30:48,099 [INFO] Chunk: 'Um, yeah.'
+2026-02-20 03:30:49,536 [INFO] Processing audio with duration 00:03.530
+2026-02-20 03:30:49,542 [INFO] VAD filter removed 00:00.000 of audio
+2026-02-20 03:30:51,154 [INFO] Chunk: 'my phone number is 1646.'
+2026-02-20 03:30:52,615 [INFO] Processing audio with duration 00:03.530
+2026-02-20 03:30:52,621 [INFO] VAD filter removed 00:00.000 of audio
+2026-02-20 03:30:54,227 [INFO] Chunk: 'five four seven four seven four two'
+2026-02-20 03:30:55,660 [INFO] Processing audio with duration 00:03.510
+2026-02-20 03:30:55,666 [INFO] VAD filter removed 00:02.406 of audio
+2026-02-20 03:31:12,747 [INFO] Processing audio with duration 00:03.510
+2026-02-20 03:31:12,753 [INFO] VAD filter removed 00:01.872 of audio
+2026-02-20 03:31:14,447 [INFO] Chunk: 'Um, yes.'
+2026-02-20 03:31:15,874 [INFO] Processing audio with duration 00:03.540
+2026-02-20 03:31:15,880 [INFO] VAD filter removed 00:00.048 of audio
+2026-02-20 03:31:17,478 [INFO] Chunk: 'control number is 1646.'
+2026-02-20 03:31:18,944 [INFO] Processing audio with duration 00:03.520
+2026-02-20 03:31:18,950 [INFO] VAD filter removed 00:00.080 of audio
+2026-02-20 03:31:20,544 [INFO] Chunk: 'four seven four seven four two'
+2026-02-20 03:31:32,670 [INFO] Processing audio with duration 00:03.500
+2026-02-20 03:31:32,676 [INFO] VAD filter removed 00:00.908 of audio
+2026-02-20 03:31:34,305 [INFO] Chunk: 'One zero three zero.'
+2026-02-20 03:31:38,767 [INFO] Processing audio with duration 00:03.500
+2026-02-20 03:31:38,773 [INFO] VAD filter removed 00:01.168 of audio
+2026-02-20 03:31:40,330 [INFO] Chunk: 'Um, yes.'
+2026-02-20 03:31:41,806 [INFO] Processing audio with duration 00:03.500
+2026-02-20 03:31:41,811 [INFO] VAD filter removed 00:00.000 of audio
+2026-02-20 03:31:43,421 [INFO] Chunk: 'is 1646, 547.'
+2026-02-20 03:31:44,886 [INFO] Processing audio with duration 00:03.540
+2026-02-20 03:31:44,891 [INFO] VAD filter removed 00:00.676 of audio
+2026-02-20 03:31:46,478 [INFO] Chunk: '4742.'
+2026-02-20 03:31:53,999 [INFO] Processing audio with duration 00:03.500
+2026-02-20 03:31:54,004 [INFO] VAD filter removed 00:03.500 of audio
+2026-02-20 03:31:57,045 [INFO] Processing audio with duration 00:03.510
+2026-02-20 03:31:57,051 [INFO] VAD filter removed 00:01.200 of audio
+2026-02-20 03:31:58,717 [INFO] Chunk: 'Nika, I want a bouquet of...'
+2026-02-20 03:32:00,132 [INFO] Processing audio with duration 00:03.520
+2026-02-20 03:32:00,163 [INFO] VAD filter removed 00:00.000 of audio
+2026-02-20 03:32:01,809 [INFO] Chunk: 'days and shower with long stem.'
+2026-02-20 03:32:15,353 [INFO] Processing audio with duration 00:03.500
+2026-02-20 03:32:15,358 [INFO] VAD filter removed 00:02.092 of audio
+2026-02-20 03:32:16,922 [INFO] Chunk: 'Thank you, Mika.'
+2026-02-20 03:32:21,470 [INFO] Processing audio with duration 00:03.510
+2026-02-20 03:32:21,475 [INFO] VAD filter removed 00:01.840 of audio
+2026-02-20 03:32:24,531 [INFO] Processing audio with duration 00:03.540
+2026-02-20 03:32:24,537 [INFO] VAD filter removed 00:00.836 of audio
+2026-02-20 03:32:26,132 [INFO] Chunk: 'can be all for today.'
+2026-02-20 03:32:27,601 [INFO] Processing audio with duration 00:03.510
+2026-02-20 03:32:27,606 [INFO] VAD filter removed 00:03.510 of audio
+2026-02-20 03:32:43,049 [INFO] HTTP Request: GET https://huggingface.co/api/models/Systran/faster-whisper-tiny.en/revision/main "HTTP/1.1 200 OK"
+2026-02-20 03:32:59,684 [INFO] Processing audio with duration 00:03.520
+2026-02-20 03:32:59,692 [INFO] VAD filter removed 00:01.680 of audio
+2026-02-20 03:32:59,962 [INFO] Chunk: 'I want a bit of cake.'
+2026-02-20 03:33:02,706 [INFO] Processing audio with duration 00:03.510
+2026-02-20 03:33:02,712 [INFO] VAD filter removed 00:00.000 of audio
+2026-02-20 03:33:03,006 [INFO] Chunk: 'SUNY Day Sunshower with long stem.'
+2026-02-20 03:33:05,785 [INFO] Processing audio with duration 00:03.530
+2026-02-20 03:33:05,791 [INFO] VAD filter removed 00:03.530 of audio
+2026-02-20 03:33:14,941 [INFO] Processing audio with duration 00:03.540
+2026-02-20 03:33:14,947 [INFO] VAD filter removed 00:03.540 of audio
+2026-02-20 03:33:18,003 [INFO] Processing audio with duration 00:03.520
+2026-02-20 03:33:18,009 [INFO] VAD filter removed 00:03.520 of audio
+2026-02-20 03:33:21,003 [INFO] Processing audio with duration 00:03.500
+2026-02-20 03:33:21,008 [INFO] VAD filter removed 00:00.464 of audio
+2026-02-20 03:33:21,327 [INFO] Chunk: 'Learn your to be great, that can be awful.'
+2026-02-20 03:33:24,102 [INFO] Processing audio with duration 00:03.530
+2026-02-20 03:33:24,108 [INFO] VAD filter removed 00:02.042 of audio
+2026-02-20 03:33:24,368 [INFO] Chunk: 'for today.'
+2026-02-20 03:33:32,191 [INFO] Processing audio with duration 00:03.500
+2026-02-20 03:33:32,196 [INFO] VAD filter removed 00:03.500 of audio
+2026-02-20 03:33:35,246 [INFO] Processing audio with duration 00:03.540
+2026-02-20 03:33:35,251 [INFO] VAD filter removed 00:02.928 of audio
+2026-02-20 03:33:38,303 [INFO] Processing audio with duration 00:03.510
+2026-02-20 03:33:38,308 [INFO] VAD filter removed 00:01.126 of audio
+2026-02-20 03:33:38,605 [INFO] Chunk: 'you for calling.'
+2026-02-20 03:33:41,346 [INFO] Processing audio with duration 00:03.500
+2026-02-20 03:33:41,351 [INFO] VAD filter removed 00:00.720 of audio
+2026-02-20 03:33:41,629 [INFO] Chunk: 'Thank you for calling Amazon Customer Service.'
+2026-02-20 03:33:44,367 [INFO] Processing audio with duration 00:03.500
+2026-02-20 03:33:44,373 [INFO] VAD filter removed 00:00.000 of audio
+2026-02-20 03:33:44,660 [INFO] Chunk: 'is Georgina, how can I help?'
+2026-02-20 03:33:47,437 [INFO] Processing audio with duration 00:03.530
+2026-02-20 03:33:47,443 [INFO] VAD filter removed 00:00.000 of audio
+2026-02-20 03:33:48,005 [INFO] Chunk: 'this is Brian and I'm calling because they haven't received.'
+2026-02-20 03:33:50,491 [INFO] Processing audio with duration 00:03.510
+2026-02-20 03:33:50,497 [INFO] VAD filter removed 00:00.000 of audio
+2026-02-20 03:33:50,762 [INFO] Chunk: 'my item yet.'
+2026-02-20 03:33:53,542 [INFO] Processing audio with duration 00:03.540
+2026-02-20 03:33:53,549 [INFO] VAD filter removed 00:00.000 of audio
+2026-02-20 03:33:53,836 [INFO] Chunk: 'sorry if you haven't received your parcel.'
+2026-02-20 03:33:56,556 [INFO] Processing audio with duration 00:03.500
+2026-02-20 03:33:56,562 [INFO] VAD filter removed 00:00.000 of audio
+2026-02-20 03:33:56,849 [INFO] Chunk: 'worries, since you have me on the line I'll be more than with'
+2026-02-20 03:33:59,581 [INFO] Processing audio with duration 00:03.500
+2026-02-20 03:33:59,587 [INFO] VAD filter removed 00:00.000 of audio
+2026-02-20 03:33:59,850 [INFO] Chunk: 'willing to assist.'
+2026-02-20 03:34:02,631 [INFO] Processing audio with duration 00:03.540
+2026-02-20 03:34:02,636 [INFO] VAD filter removed 00:00.560 of audio
+2026-02-20 03:34:02,925 [INFO] Chunk: 'For security purposes, can you have the complete name?'
+2026-02-20 03:34:05,702 [INFO] Processing audio with duration 00:03.540
+2026-02-20 03:34:05,708 [INFO] VAD filter removed 00:00.000 of audio
+2026-02-20 03:34:05,986 [INFO] Chunk: 'name on the account. Sure it's Ryan Johnson'
+2026-02-20 03:34:08,776 [INFO] Processing audio with duration 00:03.550
+2026-02-20 03:34:08,782 [INFO] VAD filter removed 00:00.000 of audio
+2026-02-20 03:34:09,067 [INFO] Chunk: 'some. Okay, can I also have your email address?'
+2026-02-20 03:34:11,800 [INFO] Processing audio with duration 00:03.520
+2026-02-20 03:34:11,806 [INFO] VAD filter removed 00:00.160 of audio
+2026-02-20 03:34:12,094 [INFO] Chunk: 'Sure, it's Ryan 205.'
+2026-02-20 03:34:14,868 [INFO] Processing audio with duration 00:03.530
+2026-02-20 03:34:14,873 [INFO] VAD filter removed 00:00.000 of audio
+2026-02-20 03:34:15,158 [INFO] Chunk: 'at the A-Hoe dot com. Thanks for a very fine...'
+2026-02-20 03:34:17,895 [INFO] Processing audio with duration 00:03.500
+2026-02-20 03:34:17,901 [INFO] VAD filter removed 00:00.000 of audio
+2026-02-20 03:34:18,183 [INFO] Chunk: 'those information to me. Let me proceed here I can...'
+2026-02-20 03:34:20,916 [INFO] Processing audio with duration 00:03.500
+2026-02-20 03:34:20,922 [INFO] VAD filter removed 00:00.000 of audio
+2026-02-20 03:34:21,221 [INFO] Chunk: 'It seems that you are very...'
+2026-02-20 03:34:23,966 [INFO] Processing audio with duration 00:03.520
+2026-02-20 03:34:23,971 [INFO] VAD filter removed 00:00.000 of audio
+2026-02-20 03:34:24,279 [INFO] Chunk: 'to meets at that 500 x5 and over.'
+2026-02-20 03:34:27,014 [INFO] Processing audio with duration 00:03.530
+2026-02-20 03:34:27,040 [INFO] VAD filter removed 00:00.000 of audio
+2026-02-20 03:34:27,355 [INFO] Chunk: 'right? You've got it, right. So do you know that'
+2026-02-20 03:34:30,044 [INFO] Processing audio with duration 00:03.510
+2026-02-20 03:34:30,050 [INFO] VAD filter removed 00:00.304 of audio
+2026-02-20 03:34:33,094 [INFO] Processing audio with duration 00:03.540
+2026-02-20 03:34:33,099 [INFO] VAD filter removed 00:00.000 of audio
+2026-02-20 03:34:33,372 [INFO] Chunk: 'it already passed estimated delivery paid.'
+2026-02-20 03:34:36,143 [INFO] Processing audio with duration 00:03.520
+2026-02-20 03:34:36,149 [INFO] VAD filter removed 00:00.000 of audio
+2026-02-20 03:34:36,433 [INFO] Chunk: 'is quite late for a week already since the item'
+2026-02-20 03:34:39,210 [INFO] Processing audio with duration 00:03.530
+2026-02-20 03:34:39,215 [INFO] VAD filter removed 00:00.080 of audio
+2026-02-20 03:34:39,500 [INFO] Chunk: 'items shipped and sold the Amazon, we can process a...'
+2026-02-20 03:34:42,234 [INFO] Processing audio with duration 00:03.520
+2026-02-20 03:34:42,239 [INFO] VAD filter removed 00:00.000 of audio
+2026-02-20 03:34:42,508 [INFO] Chunk: 'of full refund or a replacement.'
+2026-02-20 03:34:45,282 [INFO] Processing audio with duration 00:03.520
+2026-02-20 03:34:45,288 [INFO] VAD filter removed 00:00.000 of audio
+2026-02-20 03:34:45,588 [INFO] Chunk: 'one would rip for you? I really wanted to get it.'
+2026-02-20 03:34:48,328 [INFO] Processing audio with duration 00:03.510
+2026-02-20 03:34:48,336 [INFO] VAD filter removed 00:00.000 of audio
+2026-02-20 03:34:48,614 [INFO] Chunk: 'get the AT&M as soon as possible.'
+2026-02-20 03:34:51,354 [INFO] Processing audio with duration 00:03.510
+2026-02-20 03:34:51,359 [INFO] VAD filter removed 00:00.000 of audio
+2026-02-20 03:34:51,632 [INFO] Chunk: 'free shipping to save shipment fees.'
+2026-02-20 03:34:54,426 [INFO] Processing audio with duration 00:03.540
+2026-02-20 03:34:54,432 [INFO] VAD filter removed 00:00.000 of audio
+2026-02-20 03:34:54,721 [INFO] Chunk: 'didn't expect that it will come later than any.'
+2026-02-20 03:34:57,455 [INFO] Processing audio with duration 00:03.500
+2026-02-20 03:34:57,461 [INFO] VAD filter removed 00:00.864 of audio
+2026-02-20 03:34:57,720 [INFO] Chunk: 'expect this.'
+2026-02-20 03:35:00,516 [INFO] Processing audio with duration 00:03.540
+2026-02-20 03:35:00,522 [INFO] VAD filter removed 00:00.228 of audio
+2026-02-20 03:35:00,802 [INFO] Chunk: 'for the inconvenience brand to compensate.'
+2026-02-20 03:35:14,411 [INFO] HTTP Request: GET https://huggingface.co/api/models/Systran/faster-whisper-small.en/revision/main "HTTP/1.1 200 OK"
+2026-02-20 03:35:17,156 [INFO] Processing audio with duration 00:03.040
+2026-02-20 03:35:17,161 [INFO] VAD filter removed 00:02.128 of audio
+2026-02-20 03:35:18,726 [INFO] Chunk: 'Say it'
+2026-02-20 03:35:20,257 [INFO] Processing audio with duration 00:03.540
+2026-02-20 03:35:20,262 [INFO] VAD filter removed 00:00.144 of audio
+2026-02-20 03:35:21,932 [INFO] Chunk: 'can request a refund for that order and process every place'
+2026-02-20 03:35:23,346 [INFO] Processing audio with duration 00:03.530
+2026-02-20 03:35:23,352 [INFO] VAD filter removed 00:00.000 of audio
+2026-02-20 03:35:24,957 [INFO] Chunk: 'right now then expert at it to one'
+2026-02-20 03:35:26,368 [INFO] Processing audio with duration 00:03.500
+2026-02-20 03:35:26,376 [INFO] VAD filter removed 00:00.000 of audio
+2026-02-20 03:35:28,021 [INFO] Chunk: 'shipping without additional cost for the shipping.'
+2026-02-20 03:35:29,453 [INFO] Processing audio with duration 00:03.540
+2026-02-20 03:35:29,459 [INFO] VAD filter removed 00:00.000 of audio
+2026-02-20 03:35:31,117 [INFO] Chunk: 'Really? You can do that for me?'
+2026-02-20 03:35:32,553 [INFO] Processing audio with duration 00:03.540
+2026-02-20 03:35:32,578 [INFO] VAD filter removed 00:00.000 of audio
+2026-02-20 03:35:34,279 [INFO] Chunk: 'of course. Let me process your order. One moment please.'
+2026-02-20 03:35:35,640 [INFO] Processing audio with duration 00:03.520
+2026-02-20 03:35:35,646 [INFO] VAD filter removed 00:00.000 of audio
+2026-02-20 03:35:37,258 [INFO] Chunk: 'please take your time.'
+2026-02-20 03:35:38,722 [INFO] Processing audio with duration 00:03.520
+2026-02-20 03:35:38,728 [INFO] VAD filter removed 00:00.000 of audio
+2026-02-20 03:35:41,807 [INFO] Processing audio with duration 00:03.520
+2026-02-20 03:35:41,838 [INFO] VAD filter removed 00:00.000 of audio
+2026-02-20 03:35:43,464 [INFO] Chunk: 'I receive the mail refund?'
+2026-02-20 03:35:44,843 [INFO] Processing audio with duration 00:03.520
+2026-02-20 03:35:44,849 [INFO] VAD filter removed 00:00.000 of audio
+2026-02-20 03:35:46,505 [INFO] Chunk: 'was already requested. Expect to receive'
+2026-02-20 03:35:47,929 [INFO] Processing audio with duration 00:03.520
+2026-02-20 03:35:47,934 [INFO] VAD filter removed 00:00.000 of audio
+2026-02-20 03:35:49,611 [INFO] Chunk: 'the refund within two to three business days.'
+2026-02-20 03:35:51,021 [INFO] Processing audio with duration 00:03.540
+2026-02-20 03:35:51,026 [INFO] VAD filter removed 00:00.000 of audio
+2026-02-20 03:35:52,785 [INFO] Chunk: 'It will be credited back to the original payment measure.'
+2026-02-20 03:35:54,095 [INFO] Processing audio with duration 00:03.510
+2026-02-20 03:35:54,101 [INFO] VAD filter removed 00:00.000 of audio
+2026-02-20 03:35:55,812 [INFO] Chunk: 'you use in placing the order. Also,'
+2026-02-20 03:35:57,173 [INFO] Processing audio with duration 00:03.500
+2026-02-20 03:35:57,179 [INFO] VAD filter removed 00:00.000 of audio
+2026-02-20 03:35:58,934 [INFO] Chunk: 'I've already processed the replacement.'
+2026-02-20 03:36:00,270 [INFO] Processing audio with duration 00:03.520
+2026-02-20 03:36:00,275 [INFO] VAD filter removed 00:01.200 of audio
+2026-02-20 03:36:01,963 [INFO] Chunk: 'by today until tomorrow'
