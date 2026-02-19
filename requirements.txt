@@ -1,0 +1,4 @@
+pyaudiowpatch
+faster-whisper
+streamlit
+numpy
